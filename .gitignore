@@ -1,0 +1,6 @@
+java-cfr/resources/j2/*
+java-cfr/resources/r2/*
+java-cfr/out
+**/*.iml
+**/.idea
+
